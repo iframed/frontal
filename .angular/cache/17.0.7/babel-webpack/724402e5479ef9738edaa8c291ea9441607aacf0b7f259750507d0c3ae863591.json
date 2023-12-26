@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Info {}","map":{"version":3,"names":["Info"],"sources":["/Users/moha/Desktop/cliniqueDentaire/joseph/src/app/info.ts"],"sourcesContent":["export class Info {\n}\n"],"mappings":"AAAA,OAAM,MAAOA,IAAI"},"metadata":{},"sourceType":"module","externalDependencies":[]}
